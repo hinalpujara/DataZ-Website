@@ -25,8 +25,8 @@
   
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  background-color: #58B8C3;
-  color: black;
+  background-color:black;
+  color:white;
   font-size: 16px;
   padding: 12px 24px;
   margin-top: 50px;
